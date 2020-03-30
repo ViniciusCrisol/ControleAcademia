@@ -1,0 +1,43 @@
+{
+  "members": [
+    {
+      "avatar_url": "https://scontent.frao1-1.fna.fbcdn.net/v/t1.0-1/p160x160/68433208_2670011073087720_6898531631376629760_n.jpg?_nc_cat=107&_nc_sid=dbb9e7&_nc_ohc=Bis8KQ9j2wwAX-PKSVu&_nc_ht=scontent.frao1-1.fna&_nc_tp=6&oh=d871c83d2ee85cb0c4e53b947580f745&oe=5E98849A",
+      "email": "vinicius.crisol@etec.sp.gov.br",
+      "name": "Vinicin",
+      "birth": 1017619200000,
+      "gender": "M",
+      "blood": "AB-",
+      "weight": "73",
+      "height": "187",
+      "id": 1
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "name": "Dani Bolina",
+      "avatar_url": "https://observatoriodosfamosos.uol.com.br/portal/wp-content/uploads/2019/11/dani-bolina.jpg",
+      "birth": 445219200000,
+      "gender": "F",
+      "services": "jiu-jitsu",
+      "created_at": 1584572163173
+    },
+    {
+      "id": 2,
+      "name": "Piu Piu",
+      "avatar_url": "https://telemagia.files.wordpress.com/2010/09/zzzpiu-piu-panico-3.jpg",
+      "birth": 310003200000,
+      "services": "Natação, Dança",
+      "created_at": 1584654659933
+    },
+    {
+      "id": 4,
+      "name": "Cesar Cielo",
+      "avatar_url": "https://swimchannel.net/wp-content/uploads/2018/01/141-1200x675.jpg",
+      "birth": 537235200000,
+      "gender": "M",
+      "services": "Natação",
+      "created_at": 1585588282951
+    }
+  ]
+}
