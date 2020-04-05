@@ -1,4 +1,4 @@
-# Controle-Academia
+# Controle de Academia
 # Descrição Geral:
 Projeto foi construido durante o curso LaunchBase. A aplicação realiza um controle de uma academia, cadastrando novos intrutores e clientes, 
 possibilitando fazer a edição e remoção dos mesmos.
